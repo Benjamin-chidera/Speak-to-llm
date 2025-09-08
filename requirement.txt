@@ -1,0 +1,10 @@
+SpeechRecognition
+gTTS
+playsound==1.2.2
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
+dotenv
+pyaudio
+pydub
